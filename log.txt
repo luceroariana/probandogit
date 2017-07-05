@@ -1,0 +1,35 @@
+commit 4801d9d5534f3e1d8591facbd619bd07a7226c5f
+Author: Lucero <arianar438@gmail.com>
+Date:   Tue Jul 4 11:39:22 2017 -0600
+
+    integracion de bootstrap
+
+commit 9885fec4999c50524111cac439b47b62fdd30331
+Author: Lucero <arianar438@gmail.com>
+Date:   Tue Jul 4 11:32:45 2017 -0600
+
+    modifique el foore
+
+commit fe965ab992daf621c64e877721474ca3d05b5d66
+Author: Lucero <arianar438@gmail.com>
+Date:   Tue Jul 4 11:23:44 2017 -0600
+
+    se agrego foore
+
+commit 232b8057492186a8dbe67f77c6d2f94df8862d0c
+Author: Lucero <arianar438@gmail.com>
+Date:   Tue Jul 4 11:21:43 2017 -0600
+
+    se agrego imagen
+
+commit 86b10ae737e6eee5e5f301b42970146c15c0108f
+Author: Lucero <arianar438@gmail.com>
+Date:   Tue Jul 4 11:15:36 2017 -0600
+
+    se agrego titulo a la pagina
+
+commit a16ec5ff8ab3cc4b7388bf3e56e8882f936b7ba1
+Author: Lucero <arianar438@gmail.com>
+Date:   Tue Jul 4 11:08:22 2017 -0600
+
+    estructura inicial del proyecto
